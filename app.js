@@ -10,7 +10,7 @@ const { usersRouter } = require('./routes/users.routes');
 const { productsRouter } = require('./routes/products.routes');
 const { cartRouter } = require('./routes/cart.routes');
 
-// Init express app
+// Init express app 
 const app = express();
 
 // Enable CORS
